@@ -5,6 +5,9 @@ a 4 key keyboard built for tetris
  - 4 keys
  - Cherry MX Switches
 
+## Built
+![alt text](built.jpg)
+
 ## CAD Model
 Made in Solidworks
 ![Screenshot 2025-06-21 234153](https://github.com/user-attachments/assets/28f5fd32-bb48-4e42-9482-5625a47d162f)
